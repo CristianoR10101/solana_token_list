@@ -1,0 +1,21 @@
+{
+  "name": "My Token List",
+  "logoURI": "https://ibb.co/V9vB6C", 
+  "keywords": ["defi", "staking"],
+  "timestamp": "2025-01-23T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "7SrB8hhRzvFyxdERrwtgNHNa7sBHqS8uZ297b7RwQFj7",
+      "symbol": "RNLDO",
+      "name": "Cristiano Ronaldo",
+      "decimals": 9,
+      "logoURI": "https://ibb.co/V9vVB6C",
+      "tags": ["utility-token"],
+      "extensions": {
+        "website": "https://cristianoronaldo.com",
+        "twitter": "https://twitter.com/cristianoronaldo"
+      }
+    }
+  ]
+}
